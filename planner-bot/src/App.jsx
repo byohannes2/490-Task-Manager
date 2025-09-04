@@ -36,7 +36,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>Planner Bot</h1>
+      <h1>Planner</h1>
 
       <div className="input-section">
         <input
